@@ -99,7 +99,7 @@ Response:
             "address": "String",
             "position": "String",
             "nip": "String"
-        },
+        }
 }
 ```
 
@@ -130,7 +130,7 @@ Response:
             "address": "String",
             "position": "String",
             "nip": "String"
-        },
+        }
 }
 ```
 #### EDIT People
@@ -166,7 +166,7 @@ Response:
             "position": "String",
             "nip": "String",
             "password":"String"
-        },
+        }
 }
 ```
 
@@ -239,6 +239,7 @@ Body:
 {
 
 }
+```
 
 Response:
 
@@ -268,7 +269,7 @@ Body:
     "type": "String",
     "cuti": "String"
 }
-
+```
 Response:
 
 ```json
@@ -325,6 +326,7 @@ Body:
     "end_date":"DATE",
     "reason":"String"
 }
+```
 
 Response:
 
@@ -365,7 +367,7 @@ Body:
 {
 
 }
-
+```
 Response:
 
 ```json
@@ -405,6 +407,7 @@ Body:
 {
 
 }
+```
 
 Response:
 
