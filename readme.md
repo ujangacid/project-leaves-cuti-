@@ -210,6 +210,7 @@ Body:
     "type": "String",
     "cuti": "String"
 }
+```
 
 Response:
 
